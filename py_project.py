@@ -1,3 +1,6 @@
+#>>>>>>>>>>>>>>> This projecct is for language convertor <<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 #import tkinter GUI 
 from tkinter import *
 from indic_transliteration import sanscript
